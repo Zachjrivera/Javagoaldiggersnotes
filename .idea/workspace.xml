@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f54bf09-927c-43af-bf4e-56c18ee0b4c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demopackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demopackage/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/demopackage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/demopackage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaclasswork/classwork.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaclasswork/classwork.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,12 +22,13 @@
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.134" value="1" />
           <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,12 +43,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8679" />
+          <entry key="java" value="9095" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8679" />
+          <entry key="JAVA" value="9095" />
         </counts>
       </usages-collector>
     </session>
@@ -58,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/demopackage/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="379" column="49" lean-forward="true" selection-start-line="379" selection-start-column="10" selection-end-line="379" selection-end-column="49" />
+            <state relative-caret-position="5559">
+              <caret line="331" column="42" selection-start-line="331" selection-start-column="42" selection-end-line="331" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+            <state relative-caret-position="182">
+              <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -92,8 +92,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/demopackage/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/classwork/Classwork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demopackage/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java" />
       </list>
     </option>
@@ -112,7 +112,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="760" />
+    <option name="x" value="796" />
     <option name="width" value="1165" />
     <option name="height" value="1000" />
   </component>
@@ -122,6 +122,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,15 +170,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536783047577" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536792853094" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -251,18 +251,18 @@
       <workItem from="1536766023187" duration="577000" />
       <workItem from="1536771767061" duration="1221000" />
       <workItem from="1536775484856" duration="428000" />
-      <workItem from="1536777036370" duration="5912000" />
+      <workItem from="1536777036370" duration="9239000" />
+      <workItem from="1536789347904" duration="3489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46595000" />
+    <option name="totallyTimeSpent" value="53411000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="0" width="1165" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="796" y="0" width="1165" height="1000" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27330318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11312217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -306,17 +306,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Classwork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Classwork.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/demopackage/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="379" column="49" lean-forward="true" selection-start-line="379" selection-start-column="10" selection-end-line="379" selection-end-column="49" />
+        <state relative-caret-position="5559">
+          <caret line="331" column="42" selection-start-line="331" selection-start-column="42" selection-end-line="331" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -325,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+        <state relative-caret-position="182">
+          <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
         </state>
       </provider>
     </entry>

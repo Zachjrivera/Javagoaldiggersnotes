@@ -50,15 +50,15 @@ public class classwork {
         int number2 = pro4.nextInt();
 
 
-        while (number1 <= number2)
+        while (number1 != number2)
        {
 
-           System.out.printf("%d," ,number1);
-           number1 = number1+1;
+               System.out.printf("%d,",number1);
 
-
+          number1++;
+           //System.out.printf("%d"number1);
        }
-
+        System.out.println(number2);
 
 
 
