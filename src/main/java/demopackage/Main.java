@@ -373,71 +373,48 @@ public class Main {
 //If the users name is Bob or Alice.
 //Print out You are now signed in Bob or Alice
 //If the user enters a different name keep asking the user for their
-        int tries = 0;
-        String b = "bob";
-        String a = "alice";
-        String name = "";
-        Scanner login = new Scanner(System.in);
-        System.out.println("Please log in as bob or alice");
-      // String signIn = login.nextLine();
-
-       // do(!)
-//            {
-//                System.out.println("Wrong Name.");
-//            }
-        while(!name.equalsIgnoreCase("Bob")){
-
-            tries++;
-           
-            String signIn = login.nextLine();
-
-            if (signIn.equalsIgnoreCase(b))
-                    {
-                        System.out.println("Welcome Bob you are now signed in it took you " + tries + " tries");
-                            break;
-                    }
-                        else if (signIn.equalsIgnoreCase(a))
-                        {
-                            System.out.println("Welcome Alice you are now signed in it took you" + tries + "tries");
-                                break;
-                        }
-                            else
-                                {
-                                    System.out.println("Wrong name");
-
-                                }
-
-
-
-        }
-
-
-
-
-//        while (!signIn.equalsIgnoreCase(b))
+//        int tries = 0;
+//        String b = "bob";
+//        String a = "alice";
+//        String name = "";
+//        Scanner login = new Scanner(System.in);
+//        System.out.println("Please log in as bob or alice");
+//      // String signIn = login.nextLine();
 //
-//        {
+//       // do(!)
+////            {
+////                System.out.println("Wrong Name.");
+////            }
+//        while(!name.equalsIgnoreCase("Bob")){
 //
+//            tries++;
 //
+//            String signIn = login.nextLine();
 //
-//                System.out.println("Try again");
-//
-//
-//
-//                    if (signIn.equalsIgnoreCase(b))
+//            if (signIn.equalsIgnoreCase(b))
 //                    {
-//                        System.out.println("Welcome Bob you are now signed in");
-//
+//                        System.out.println("Welcome Bob you are now signed in it took you " + tries + " tries");
+//                            break;
 //                    }
 //                        else if (signIn.equalsIgnoreCase(a))
 //                        {
-//                            System.out.println("Welcome Alice you are now signed in");
+//                            System.out.println("Welcome Alice you are now signed in it took you" + tries + "tries");
+//                                break;
 //                        }
-//                // else {
-//                    //System.out.println("Please try again");
-//               // }
+//                            else
+//                                {
+//                                    System.out.println("Wrong name");
+//
+//                                }
+//
+//
 //
 //        }
+
+
+
+
+
 
 
 
