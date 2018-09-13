@@ -43,6 +43,7 @@ public class classwork {
         }
 */
 //------------Problem 4
+       /*
         Scanner pro4 = new Scanner(System.in);
         System.out.println("Enter starting number");
         int number1 = pro4.nextInt();
@@ -59,19 +60,48 @@ public class classwork {
            //System.out.printf("%d"number1);
        }
         System.out.println(number2);
+        */
+
+/*
+        The Fibonacci sequence is a series of numbers where a number is found by adding up the two numbers before it. Starting with 0 and 1, the sequence goes 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so forth.
+
+        Using a loop, create a string containing a comma-delimited Fibonacci sequence up to a maximum value.
+
+                Example:
+        Below will be the input passed as a parameter when the method is called/invoked
+                Input = 18
+
+        Below will be the output if your code works as expected
+                Output = 0, 1, 1, 2, 3, 5, 8, 13
+
+        so you take the some of two numbers and add it to the next number and end at the number specified.
 
 
+    int num1 = 0;
+    int num2 = 1;
+    int num3 = 1;
+
+    Scanner fib = new Scanner(System.in);
+        System.out.println("Pick a number.");
+        int number = fib.nextInt();
 
 
+        System.out.printf("%d,",num1);
+        System.out.printf("%d,",num2);
 
+        do
+        {
+            num3 =num2+num1;
+            System.out.printf("%d," ,num3);
+            num1 = num2;
+            num2 = num3;
+        }   while(num2<=number);
+                {
 
+                 }
 
-
-
-
-
-
-
+        System.out.println(number);
+*/
 
 
 

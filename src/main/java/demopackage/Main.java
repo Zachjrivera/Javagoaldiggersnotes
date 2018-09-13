@@ -423,8 +423,19 @@ public class Main {
 
 
 
+        Scanner scanner = new Scanner(System.in);
+        //int N = scanner.nextInt();
 
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+        int N = scanner.nextInt();
+        while(N  )
+        {
 
+            System.out.println(N);
+
+        }
+
+        scanner.close();
 
 
 

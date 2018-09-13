@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8f54bf09-927c-43af-bf4e-56c18ee0b4c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demopackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demopackage/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demopackage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/demopackage/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/javaclasswork/classwork.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaclasswork/classwork.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,17 +20,19 @@
     <session id="-141157535">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.134" value="1" />
           <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,23 +47,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9095" />
+          <entry key="java" value="10188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9095" />
+          <entry key="JAVA" value="10188" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/demopackage/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5559">
-              <caret line="331" column="42" selection-start-line="331" selection-start-column="42" selection-end-line="331" selection-end-column="42" />
+            <state relative-caret-position="416">
+              <caret line="430" column="17" selection-start-line="430" selection-start-column="17" selection-end-line="430" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+            <state relative-caret-position="911">
+              <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -93,8 +97,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/classwork/Classwork.java" />
-        <option value="$PROJECT_DIR$/src/main/java/demopackage/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demopackage/Main.java" />
       </list>
     </option>
   </component>
@@ -112,8 +116,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="796" />
-    <option name="width" value="1165" />
+    <option name="x" value="973" />
+    <option name="width" value="964" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -122,9 +126,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,12 +173,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536792853094" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536853708003" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -193,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.classwork">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demopackage.Main" />
       <module name="helloworld" />
@@ -226,8 +230,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.classwork" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.classwork" />
       </list>
     </recent_temporary>
   </component>
@@ -252,17 +256,20 @@
       <workItem from="1536771767061" duration="1221000" />
       <workItem from="1536775484856" duration="428000" />
       <workItem from="1536777036370" duration="9239000" />
-      <workItem from="1536789347904" duration="3489000" />
+      <workItem from="1536789347904" duration="3680000" />
+      <workItem from="1536796987953" duration="511000" />
+      <workItem from="1536843608927" duration="7590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53411000" />
+    <option name="totallyTimeSpent" value="61703000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="796" y="0" width="1165" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11312217" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06876332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,7 +278,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24942264" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23427331" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -280,7 +287,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32678983" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3253796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -307,20 +314,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Classwork.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/demopackage/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5559">
-          <caret line="331" column="42" selection-start-line="331" selection-start-column="42" selection-end-line="331" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="911">
+          <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/demopackage/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+        <state relative-caret-position="416">
+          <caret line="430" column="17" selection-start-line="430" selection-start-column="17" selection-end-line="430" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
