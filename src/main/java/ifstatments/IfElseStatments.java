@@ -309,8 +309,8 @@ public class IfElseStatments {
 */
 
 
-/*
 
+/*
 //Use a Scanner and a while loop to ask for a username and a password.
 // If the password is not equal to "TGIF" then keep asking the user for
 //  the username and password. But once the user enters TGIF for the password
@@ -335,9 +335,10 @@ public class IfElseStatments {
             {
                 System.out.println("You are locked out. Contact system admin.");
                 break;
-            }  if (key.equals("TGIF"))
+            }else  if (key.equals("TGIF"))
                 {
                     System.out.println("You logged in successfully.");
+                    break;
                 }
         }
 
