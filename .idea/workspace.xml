@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f54bf09-927c-43af-bf4e-56c18ee0b4c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/headfirstjava/HeadFirstWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifstatments/IfElseStatments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaclasswork/bottlesofbeer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaclasswork/homework.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/demopackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demopackage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifstatments/IfElseStatments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifstatments/IfElseStatments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/demopackage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/demopackage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/classpractice/DogClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/classpractice/DogClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ifstatments/IfElseStatments.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ifstatments/IfElseStatments.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/javaclasswork/classwork.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/javaclasswork/classwork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/classpractice/DogClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/classpractice/DogClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/classpractice/DogTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/classpractice/Movie$MovieTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/classpractice/Movie.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,18 +26,33 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-141157535">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.134" value="1" />
           <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.41" value="2" />
           <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.59" value="1" />
@@ -40,44 +60,63 @@
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="16199" />
+          <entry key="java" value="18739" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16199" />
+          <entry key="JAVA" value="18739" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/classpractice/DogClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+            <state relative-caret-position="459">
+              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
               <folding>
                 <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/homework.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -99,12 +138,14 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/classwork/Classwork.java" />
-        <option value="$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java" />
         <option value="$PROJECT_DIR$/src/main/java/ifstatments/Ifelsestatments.java" />
         <option value="$PROJECT_DIR$/src/main/java/demopackage/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ifstatments/IfElseStatments.java" />
         <option value="$PROJECT_DIR$/src/main/java/headfirstjava/HeadFirstWork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ifstatments/IfElseStatments.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaclasswork/bottlesofbeer.java" />
         <option value="$PROJECT_DIR$/src/test/java/classpractice/DogClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaclasswork/homework.java" />
       </list>
     </option>
   </component>
@@ -121,7 +162,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="765" />
     <option name="width" value="1155" />
     <option name="height" value="1047" />
@@ -132,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,18 +185,40 @@
               <item name="helloworld" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javaclasswork" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537145787624" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537226877880" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -174,26 +236,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DogTestDrive">
-    <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classpractice.DogTestDrive" />
+  <component name="RunManager" selected="Application.homework">
+    <configuration name="BigDoggo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classpractice.BigDoggo" />
       <module name="helloworld" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="classpractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HeadFirstWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirstjava.HeadFirstWork" />
-      <module name="helloworld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="headfirstjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ifelsestatments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifstatments.Ifelsestatments" />
+    <configuration name="bottlesofbeer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclasswork.bottlesofbeer" />
       <module name="helloworld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ifstatments.*" />
+          <option name="PATTERN" value="javaclasswork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +276,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demopackage.Main" />
+    <configuration name="classwork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclasswork.classwork" />
       <module name="helloworld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demopackage.*" />
+          <option name="PATTERN" value="javaclasswork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaclasswork.homework" />
+      <module name="helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaclasswork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,19 +303,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Ifelsestatments" />
       <item itemvalue="Application.IfElseStatments" />
-      <item itemvalue="Application.HeadFirstWork" />
-      <item itemvalue="Application.DogTestDrive" />
+      <item itemvalue="Application.BigDoggo" />
+      <item itemvalue="Application.bottlesofbeer" />
+      <item itemvalue="Application.classwork" />
+      <item itemvalue="Application.homework" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DogTestDrive" />
-        <item itemvalue="Application.HeadFirstWork" />
+        <item itemvalue="Application.homework" />
+        <item itemvalue="Application.classwork" />
+        <item itemvalue="Application.bottlesofbeer" />
         <item itemvalue="Application.IfElseStatments" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Ifelsestatments" />
+        <item itemvalue="Application.BigDoggo" />
       </list>
     </recent_temporary>
   </component>
@@ -285,11 +347,13 @@
       <workItem from="1536944655752" duration="14130000" />
       <workItem from="1536977615357" duration="8688000" />
       <workItem from="1537065062380" duration="4927000" />
+      <workItem from="1537203582926" duration="13873000" />
+      <workItem from="1537225161345" duration="1588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90044000" />
+    <option name="totallyTimeSpent" value="105505000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -301,9 +365,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="765" y="0" width="1155" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.23561645" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.14179105" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.038356163" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -312,7 +377,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22234392" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22234273" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,33 +443,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/classwork/Classwork.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ifstatments/IfElseStatments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="395" column="17" selection-start-line="395" selection-start-column="17" selection-end-line="395" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/headfirstjava/HeadFirstWork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
+        <state relative-caret-position="482">
           <caret line="54" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demopackage/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2180">
+        <state relative-caret-position="6443">
           <caret line="388" column="45" selection-start-line="388" selection-start-column="12" selection-end-line="388" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -412,16 +460,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ifstatments/IfElseStatments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2590">
+          <caret line="378" column="2" selection-start-line="378" selection-start-column="2" selection-end-line="378" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/bottlesofbeer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/classpractice/DogClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        <state relative-caret-position="459">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
           <folding>
             <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/classwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaclasswork/homework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
         </state>
       </provider>
     </entry>

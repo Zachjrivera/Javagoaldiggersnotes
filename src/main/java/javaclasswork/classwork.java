@@ -1,5 +1,6 @@
 package javaclasswork;
 
+import java.math.BigInteger;
 import java.util.Scanner;
 
 public class classwork {
@@ -106,6 +107,81 @@ public class classwork {
 
 */
 
+
+// 9/17/2018 notes
+
+        /*Continute
+        for(int x = 0; x <= 10; x++)
+        {
+            if(x == 5)
+            {}
+        }
+        */
+
+       /*
+        //if using Big numbers cant use = - % /
+
+        BigInteger a= BigInteger.valueOf(1000456000);
+        BigInteger b = new BigInteger("36546554422");
+        BigInteger c = a.add(b);
+        System.out.println(c);
+        */
+
+       //for each loop
+
+
+        String[] top3 = {"Ace","Wale","Meek"};
+        for (String x:top3) {
+            System.out.println(x);
+        }
+
+        //anonymous arrays
+
+        //later date
+
+        //copyof is a method sort is method acending order
+
+        //multidimensional arrays
+/*
+        int [][] magicSquare =
+                {
+                    //  column
+                        {16,3,2,13}, //row
+                        {5,10,11,8},
+                        {9,6,7,12},
+                        {4,15,14,1}
+
+                };
+        System.out.println(magicSquare[0][1]);
+
+
+
+        for (int magicrow = 0; magicrow < magicSquare.length; magicrow++)
+        {
+            for (int magiccoll = 0; magiccoll < magicSquare[magicrow].length; magiccoll++)
+            {
+            System.out.print(magicSquare[magicrow][magiccoll] + "\t");
+            }
+                System.out.println(); }
+*/
+
+
+
+
+//        String [][] honorifics =
+//                {
+//                        {"Mr.","Mrs.","Mc."},
+//                        {" Tee"," Hammer"," Jones"},
+//                };
+//        System.out.println(honorifics[0][0] + honorifics[1][0]);
+//        System.out.println(honorifics[0][1]+ honorifics[1][2]);
+//        System.out.println(honorifics[0][2]+ honorifics[1][1]);
+
+
+        //loop through multi dimensional arrays
+        // value at arr[0][0]is 16
+
+ //
 
 
 
