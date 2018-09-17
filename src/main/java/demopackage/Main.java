@@ -373,69 +373,52 @@ public class Main {
 //If the users name is Bob or Alice.
 //Print out You are now signed in Bob or Alice
 //If the user enters a different name keep asking the user for their
-//        int tries = 0;
-//        String b = "bob";
-//        String a = "alice";
-//        String name = "";
-//        Scanner login = new Scanner(System.in);
-//        System.out.println("Please log in as bob or alice");
-//      // String signIn = login.nextLine();
-//
-//       // do(!)
-////            {
-////                System.out.println("Wrong Name.");
-////            }
-//        while(!name.equalsIgnoreCase("Bob")){
-//
-//            tries++;
-//
-//            String signIn = login.nextLine();
-//
-//            if (signIn.equalsIgnoreCase(b))
-//                    {
-//                        System.out.println("Welcome Bob you are now signed in it took you " + tries + " tries");
-//                            break;
-//                    }
-//                        else if (signIn.equalsIgnoreCase(a))
-//                        {
-//                            System.out.println("Welcome Alice you are now signed in it took you" + tries + "tries");
-//                                break;
-//                        }
-//                            else
-//                                {
-//                                    System.out.println("Wrong name");
-//
-//                                }
 //
 //
-//
-//        }
+ int tries = 0;
+        String b = "bob";
+        String a = "alice";
+        String name = "";
+        Scanner login = new Scanner(System.in);
+        System.out.println("Please log in as bob or alice");
+
+        while(!name.equalsIgnoreCase("Bob")){
+
+            tries++;
+
+            String signIn = login.nextLine();
+
+            if (signIn.equalsIgnoreCase(b))
+                    {
+                        System.out.println("Welcome Bob you are now signed in it took you " + tries + " tries");
+                            break;
+                    }
+                        else if (signIn.equalsIgnoreCase(a))
+                        {
+                            System.out.println("Welcome Alice you are now signed in it took you" + tries + "tries");
+                                break;
+                        }
+                            else
+                                {
+                                    System.out.println("Wrong name");
+
+                                }
 
 
-
-
-
-
-
-
-
-
-
-
-
-        Scanner scanner = new Scanner(System.in);
-        //int N = scanner.nextInt();
-
-        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
-        int N = scanner.nextInt();
-        while(N  )
-        {
-
-            System.out.println(N);
 
         }
 
-        scanner.close();
+
+
+
+
+
+
+
+
+
+
+
 
 
 
